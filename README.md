@@ -236,7 +236,7 @@ Below are the resources related to this project:
 
 4. **README File**  
    Detailed documentation of the project, including features and setup instructions.  
-   [View README](https://github.com/Shaon-Mohammad-L2/Assignment-2.Bi-Cycle-Store/blob/main/README.md)
+   [View README](https://github.com/MozzammelRidoy/TypeScript__Bi-Cycle-Store/blob/main/README.md)
 
 
 
