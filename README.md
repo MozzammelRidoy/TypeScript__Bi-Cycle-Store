@@ -226,7 +226,7 @@ DATA_BASE_URL = <your_database_url>  # Example: mongodb+srv://<username>:<passwo
 Below are the resources related to this project:
 
 1. **GitHub Repository**  
-   [GitHub Repository](https://github.com/Shaon-Mohammad-L2/Assignment-2.Bi-Cycle-Store)  
+   [GitHub Repository](https://github.com/MozzammelRidoy/TypeScript__Bi-Cycle-Store)  
 
 2. **Live Deployment**  
    [Live Application](https://type-script-bi-cycle-store.vercel.app/)  
