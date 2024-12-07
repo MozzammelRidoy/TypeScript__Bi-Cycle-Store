@@ -229,7 +229,7 @@ Below are the resources related to this project:
    [GitHub Repository](https://github.com/Shaon-Mohammad-L2/Assignment-2.Bi-Cycle-Store)  
 
 2. **Live Deployment**  
-   [Live Application](https://assignment-2-bi-cycle-store.vercel.app/)  
+   [Live Application](https://type-script-bi-cycle-store.vercel.app/)  
 
 3. **Video Walkthrough**  
    [Project Explanation Video](https://drive.google.com/file/d/1QDt6rYu6npezdA2QNa3BjV4wBIXE_sxr/view?usp=sharing)  
