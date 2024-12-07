@@ -221,24 +221,22 @@ PORT = <your_port_number>         # Example: 5000
 DATA_BASE_URL = <your_database_url>  # Example: mongodb+srv://<username>:<password>@cluster0.mongodb.net/<database-name>
 
 ```
-### **9. Submission**
+### **9. Resources**
 
-To complete the assignment, submit the following:
+Below are the resources related to this project:
 
-1. **GitHub Repository Link**  
-   [GitHub Repository](#)  
-   *(Replace `#` with your repository link once ready.)*
+1. **GitHub Repository**  
+   [GitHub Repository](https://github.com/Shaon-Mohammad-L2/Assignment-2.Bi-Cycle-Store)  
 
-2. **Live Deployment Link**  
+2. **Live Deployment**  
    [Live Application](https://assignment-2-bi-cycle-store.vercel.app/)  
-   *(Replace `#` with your live application URL, e.g., Vercel link.)*
 
-3. **Video Explanation**  
-   [Video Walkthrough](#)  
-   *(Replace `#` with your public Google Drive or YouTube link for the video.)*
+3. **Video Walkthrough**  
+   [Project Explanation Video](https://drive.google.com/file/d/1QDt6rYu6npezdA2QNa3BjV4wBIXE_sxr/view?usp=sharing)  
 
-4. **Professional README File**  
-   This file includes:
-   - Features of the application.
-   - Instructions on setting up the project locally.
+4. **README File**  
+   Detailed documentation of the project, including features and setup instructions.  
+   [View README](https://github.com/Shaon-Mohammad-L2/Assignment-2.Bi-Cycle-Store/blob/main/README.md)
+
+
 
